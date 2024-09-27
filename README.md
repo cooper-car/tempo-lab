@@ -1,4 +1,4 @@
-# Grafana Tempo
+## Grafana Tempo
 **Open-source distributed tracing backend**
 
 ## Features
@@ -9,7 +9,9 @@
 - **Service Graph Visualization**: Provides a built-in service graph view to visualize span metrics and service interactions.
 
 ## Demo
-![CleanShot 2024-09-28 at 00 09 39@2x](https://github.com/user-attachments/assets/eaa13d5a-230a-4989-b9be-6120860062b1)
+<img src="https://github.com/user-attachments/assets/eaa13d5a-230a-4989-b9be-6120860062b1" alt="CleanShot" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/0b3cc060-fbae-424a-821f-b6fca6c75395" alt="CleanShot" width="500"/>
 
 ## Reference
 - [official documentation](https://grafana.com/docs/tempo/latest/#grafana-tempo)
